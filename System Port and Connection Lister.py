@@ -26,5 +26,3 @@ def scan_network_connections():
     print(f"Total connections found: {count}")
 if __name__ == "__main__":
     scan_network_connections()
-
-           
